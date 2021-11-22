@@ -35,7 +35,7 @@ main("resolve").then((status) => {
   main("reject").catch((error) => {
     console.log(error);
     console.log("=============");
-    console.log("UnSuccess:");
+    console.log("Error:");
     console.log(
       main("error").catch((error2) => {
         console.log(error2);
