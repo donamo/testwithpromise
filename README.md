@@ -1,5 +1,8 @@
 # testwithpromise
+npm i
+node test.js
 
+```
 Test
 
 Success:
@@ -28,3 +31,4 @@ Error: Error - throw
     at process._tickCallback (internal/process/next_tick.js:68:7)
     at Function.Module.runMain (internal/modules/cjs/loader.js:834:11)
     at startup (internal/bootstrap/node.js:283:19)
+```
